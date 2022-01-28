@@ -1,0 +1,8 @@
+auth.json
+node_modules
+build
+test/bot.py
+test/scams.txt
+data.json
+persist.json
+package-lock.json
